@@ -28,7 +28,8 @@ $$\text{Attrition Rate} = \left( \frac{\text{Total Attrition Count}}{\text{Total
 - **Satisfaction:** Sales Executives report the highest volume of "Level 4" satisfaction, yet remain a high-count group for turnover analysis.
 
 ## 📂 Repository Structure
-- `/Dashboards`: Contains .pbix and Tableau Workbook files.
-- `/SQL_Scripts`: PostgreSQL queries for data extraction and validation.
 - `/Documentation`: Detailed Business Problem and Analysis Report.
+- `/Dashboards`: Contains .pbix and Tableau Workbook files.
+- `/Images`: Contains images of dashboard screenshots.
+- `/SQL_Scripts`: PostgreSQL queries for data extraction and validation.
 - `/Data`: (Optional) Raw dataset or schema description.
